@@ -16,5 +16,7 @@ while n>1:
     else:
         x=np.linalg.solve(a,b)
         print(x)
+        print("hello")
+        
 
 
